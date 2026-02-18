@@ -1,0 +1,5 @@
+# Generated PowerPoint presentations
+*.pptx
+
+# Quarto build artifacts
+/.quarto/
