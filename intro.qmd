@@ -1,0 +1,12 @@
+---
+title: "scverse & EMBL Introduction"
+format: pptx
+---
+
+## About scverse & EMBL
+
+**scverse** is a community-driven ecosystem of Python packages for single-cell omics data analysis, providing standardized tools and best practices for biological research.
+
+**EMBL** (European Molecular Biology Laboratory) is Europe's flagship laboratory for the life sciences, conducting research and providing training in molecular biology, with a strong focus on computational biology and bioinformatics.
+
+Together, they support open-source software development and collaborative research in the life sciences.

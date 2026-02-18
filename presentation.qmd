@@ -1,0 +1,13 @@
+---
+title: "scverse: a software infrastructure for bioinformatics and single-cell biology"
+author: "Luca Marconato, Wolfgang Huber"
+subtitle: "deRSE26 - Conference for Research Software Engineering in Germany"
+date: "March 3, 2026"
+format: pptx
+---
+
+## Slide 1
+
+## Slide 2
+
+## Slide 3
