@@ -13,7 +13,7 @@ format:
     show-slide-number: all
     auto-stretch: false
     center-title-slide: false
-    logo: EMBL_120x128.png
+    logo: EMBL_120x128.png         # may not good due to TUM - put an scverse logo instead
   html:
     code-line-numbers: false
     embed-resources: true
@@ -24,12 +24,11 @@ execute:
 slide-level: 1
 editor_options: 
   chunk_output_type: console
-engine: knitr
+engine: knitr            # only if we use living code with the presentation; I suppose not...
 knitr:
   opts_chunk: 
     R.options:
       width: 120
----
 ---
 
 # About scverse & EMBL
