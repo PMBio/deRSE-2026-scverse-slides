@@ -2,12 +2,44 @@
 title: "scverse: a software infrastructure for bioinformatics and single-cell biology"
 author: "Luca Marconato, Wolfgang Huber"
 subtitle: "deRSE26 - Conference for Research Software Engineering in Germany"
-date: "March 3, 2026"
-format: pptx
+date: "2026-03-03"
+date-format: iso
+format:
+  revealjs: 
+    theme: [default, wh.scss]
+    transition: slide
+    scrollable: true
+    slide-number: c/t
+    show-slide-number: all
+    auto-stretch: false
+    center-title-slide: false
+    logo: EMBL_120x128.png
+  html:
+    code-line-numbers: false
+    embed-resources: true
+execute: 
+  warning: true
+  error: false
+  message: false
+slide-level: 1
+editor_options: 
+  chunk_output_type: console
+engine: knitr
+knitr:
+  opts_chunk: 
+    R.options:
+      width: 120
+---
 ---
 
-## Slide 1
+# About scverse & EMBL
 
-## Slide 2
+**scverse** is a community-driven ecosystem of Python packages for single-cell omics data analysis, providing standardized tools and best practices for biological research.
 
-## Slide 3
+**EMBL** (European Molecular Biology Laboratory) is Europe's flagship laboratory for the life sciences, conducting research and providing training in molecular biology, with a strong focus on computational biology and bioinformatics.
+
+Together, they support open-source software development and collaborative research in the life sciences.
+
+# Slide 2
+
+# Slide 3
