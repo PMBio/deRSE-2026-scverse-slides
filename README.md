@@ -12,8 +12,7 @@ quarto render presentation.qmd
 This will generate `presentation.html`.
 
 ## Presentation requirements
-- 3 slides, 6 minutes.
-- During the first half of the meeting, all projects will be asked to give a brief (6 minutes) introduction about themselves. This introduction should answer the following questions:  
+- During the first half of the meeting, all projects will be asked to give a brief (6 minutes) introduction about themselves (max. 3 slides, max. 6 minutes). This introduction should answer the following questions:  
     - What is your project about?  
     - How can your project benefit from networking with the other projects?  
     - How can your project contribute to the creation of a national integrated structure for research software?  
