@@ -1,8 +1,6 @@
 # deRSE-2026-scverse-slides
 Slides for deRSE 2026 DFG networking meeting introducing scverse.
 
-Requirements: 3 slides, 6 minutes.
-
 ## Building the presentation
 
 To build the HTML presentation, run:
@@ -11,8 +9,17 @@ To build the HTML presentation, run:
 quarto render presentation.qmd
 ```
 
-This will generate `intro.pptx` and `presentation.html`.
+This will generate `presentation.html`.
 
-## Additional intro slide (3 minutes)
+## Presentation requirements
+- 3 slides, 6 minutes.
+- During the first half of the meeting, all projects will be asked to give a brief (6 minutes) introduction about themselves. This introduction should answer the following questions:  
+    - What is your project about?  
+    - How can your project benefit from networking with the other projects?  
+    - How can your project contribute to the creation of a national integrated structure for research software?  
+    - From your perspective: What should a national integrated structure for research software be able to achieve?  
+- The invited guest projects and organisations are also asked to briefly (max. 3 minutes) introduce themselves to the plenum.
+    - The [introduction slides](https://docs.google.com/presentation/d/1NtxvehfeTFspro5xzNnpvCPsHKjckQ_5cpMm8JfdFKg/edit?usp=sharing) are available via Google Slide. 
 
-A [single slide for introductions](https://docs.google.com/presentation/d/1NtxvehfeTFspro5xzNnpvCPsHKjckQ_5cpMm8JfdFKg/edit?usp=sharing) is available via Google Slide. 
+## Resources
+- The Adobe Illustrator file used to make some of the figures is available in the scverse Google Drive under the name "DFG.ai".

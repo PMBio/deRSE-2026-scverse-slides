@@ -1,7 +1,11 @@
 ---
 title: "scverse: a software infrastructure for bioinformatics and single-cell biology"
 author: "Luca Marconato, Wolfgang Huber"
-subtitle: "deRSE26 - Conference for Research Software Engineering in Germany"
+subtitle: "deRSE26 — Networking meeting of the projects funded by the DFG funding program \"Research Software Infrastructures\""
+title-slide-attributes:
+  data-background-image: images/deRSE26_logo.png
+  data-background-size: 50%
+  data-background-position: center 55%
 date: "2026-03-03"
 date-format: iso
 format:
@@ -14,7 +18,7 @@ format:
     auto-stretch: false
     center-title-slide: false
     # logo: EMBL_120x128.png         # may not good due to TUM - put an scverse logo instead
-    logo: scverse.svg
+    logo: images/scverse.svg
   html:
     code-line-numbers: false
     embed-resources: true
@@ -32,14 +36,64 @@ knitr:
       width: 120
 ---
 
-# About scverse & EMBL
+# scverse: bridging user and developer experiences for single-cell biology{.smaller}
 
-**scverse** is a community-driven ecosystem of Python packages for single-cell omics data analysis, providing standardized tools and best practices for biological research.
+:::: {.columns}
+::: {.column width="50%"}
+**Users focus: scientific discovery**
 
-**EMBL** (European Molecular Biology Laboratory) is Europe's flagship laboratory for the life sciences, conducting research and providing training in molecular biology, with a strong focus on computational biology and bioinformatics.
+- Benefit from easy installation & comprehensive documentation
 
-Together, they support open-source software development and collaborative research in the life sciences.
+**Developer focus: removing friction, maintainability**
 
-# Slide 2
+- Templates (scverse cookiecutter), dependency management, CI/CD, automation
 
-# Slide 3
+:::
+::: {.column width="50%"}
+**Bridge users ↔ developers**
+
+- Online support, in-person events
+- Developer as a teacher: scientists learn to develop, developers focus on real scientific needs
+- Software interoperability: e.g. Python + R/Bioconductor (AnnDataR)
+:::
+::::
+
+![](images/scverse_operations.png)
+
+::: {.notes}
+scverse bridges users and developers. For users, the goal is to let scientists focus on scientific discovery — with easy installation and comprehensive documentation. For developers, we remove friction through automation: CI/CD, the scverse cookiecutter template, and dependency management. The bridge between these two worlds is built through online support, in-person events, and a teaching philosophy where developers help scientists become developers themselves, and gather crucial feedback in the process. Software interoperability — for instance Python and R/Bioconductor via AnnDataR — ensures broad accessibility. As the operations figure shows, this pipeline flows from the core team maintaining 12 core packages, through hackathons and workshops with hundreds of participants, to thousands of developers producing tutorials and documentation, ultimately advancing scientific discovery.
+:::
+
+# scverse team composition and scientific impact
+
+![](images/scverse_impact.png)
+
+::: {.notes}
+This slide shows our team composition and scientific impact. Until now, scverse has been run largely on a voluntary basis by the community. Thanks to DFG funding, we now have a dedicated team focusing on three pillars: core infrastructure development and maintenance, teaching and training, and outreach to the broader scientific community. In terms of software, we maintain 12 core packages, 106 ecosystem packages, 939 dependent packages and 4,650 dependent repositories on GitHub. We have 343 unique contributors to core packages, over 1,700 pull requests in the last year, more than 7,200 GitHub stars, and around 72,500 daily downloads. Community-wise, we have organized 2 conferences and 9 in-person hackathons, with 1,200 members on our Zulip discussion platform, and our tools have been cited over 8,000 times.
+:::
+
+# Networking and national infrastructure {.smaller}
+
+:::: {.columns style="font-size: 1.4em;"}
+::: {.column width="76%"}
+**How can your project benefit from networking with other projects?**
+
+- Share and learn from each other: what works, what doesn't
+- AI is shifting paradigms and workflows (e.g. tools for AI agents, LLM-ready documentation)
+
+**How can your project contribute to a national integrated structure for research software?**
+
+- Reuse and contribute to modular, reusable components to support and advance each other's efforts
+
+**What should a national integrated structure for research software achieve?**
+
+- Work together to enable end-to-end open, free scientific workflows
+:::
+::: {.column width="24%"}
+![](images/scverse_communities.png){height="500px"}
+:::
+::::
+
+::: {.notes}
+Three questions to address. First, networking: we want to share and learn from each other — what works, what doesn't — and collectively navigate the shift that AI is bringing to our workflows, for instance by building tools for AI agents and making documentation LLM-ready. Second, contribution: we believe in reusing and contributing to modular, reusable components across projects, so we can support and advance each other's efforts rather than reinventing redundant tools that increase the maintenance burden. Third, the vision: a national integrated structure should enable us to work together towards end-to-end open, free scientific workflows. Concretely: for teaching and outreach, scverse will partner with de.NBI and Bioconductor; for reproducible workflows, with nf-core and Galaxy; and for bridging adjacent scientific communities such as bioimage analysis, with German BioImaging, IO-FAST and BioImage Archive.
+:::

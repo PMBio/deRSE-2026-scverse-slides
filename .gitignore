@@ -4,3 +4,6 @@
 # Quarto build artifacts
 /.quarto/
 .Rproj.user
+
+# macOS specific
+.DS_Store
