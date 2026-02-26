@@ -3,3 +3,4 @@
 
 # Quarto build artifacts
 /.quarto/
+.Rproj.user

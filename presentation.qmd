@@ -13,7 +13,8 @@ format:
     show-slide-number: all
     auto-stretch: false
     center-title-slide: false
-    logo: EMBL_120x128.png         # may not good due to TUM - put an scverse logo instead
+    # logo: EMBL_120x128.png         # may not good due to TUM - put an scverse logo instead
+    logo: scverse.svg
   html:
     code-line-numbers: false
     embed-resources: true
