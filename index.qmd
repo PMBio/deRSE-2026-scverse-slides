@@ -20,16 +20,17 @@ format:
     logo: images/scverse.svg
   html:
     code-line-numbers: false
-    embed-resources: true
+    embed-resources: false
 slide-level: 1
 ---
+
+# scverse: bridging user and developer experiences for single-cell biology{.smaller}
+
 
 <!-- For documentation of how to deploy on GitHub pages, see:
 https://quarto.org/docs/publishing/github-pages.html
 Here, I use the first option: Render to docs
 -->
-
-# scverse: bridging user and developer experiences for single-cell biology{.smaller}
 
 :::: {.columns}
 ::: {.column width="50%"}
@@ -67,22 +68,24 @@ This slide shows our team composition and scientific impact. Until now, scverse 
 
 # Networking and national infrastructure {.smaller}
 
-:::: {.columns style="font-size: 1.4em;"}
-::: {.column width="76%"}
+:::: {.columns style="font-size: 1.3em;"}
+::: {.column width="80%"}
 **How can your project benefit from networking with other projects?**
 
 - Share and learn from each other: what works, what doesn't
-- AI is shifting paradigms and workflows (e.g. tools for AI agents, LLM-ready documentation)
+- Optimal exploitation of shifting paradigms and workflows from AI: e.g., hard and solid core methods, LLM-enhanced glue and user interfacing
 
 **How can your project contribute to a national integrated structure for research software?**
 
-- Reuse and contribute to modular, reusable components to support and advance each other's efforts
+- Broader collaboration on modular, reusable components for shared problems
 
 **What should a national integrated structure for research software achieve?**
 
-- Work together to enable end-to-end open, free scientific workflows
+- European digital sovereignty to have the tools for doing the science we want to do
+- Set the environment for sustainable scientific software development by both, professional RSEs and amateur developers who are PhD or postdocs in their main jobs --- through training, good incentives, research performance assessment, careers 
+
 :::
-::: {.column width="24%"}
+::: {.column width="20%"}
 ![](images/scverse_communities.png){height="500px"}
 :::
 ::::
