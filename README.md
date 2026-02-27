@@ -6,10 +6,10 @@ Slides for deRSE 2026 DFG networking meeting introducing scverse.
 To build the HTML presentation, run:
 
 ```bash
-quarto render presentation.qmd
+quarto render index.qmd
 ```
 
-This will generate `presentation.html`.
+This will generate `index.html`.
 
 ## Presentation requirements
 - During the first half of the meeting, all projects will be asked to give a brief (6 minutes) introduction about themselves (max. 3 slides, max. 6 minutes). This introduction should answer the following questions:  
