@@ -1,7 +1,7 @@
 ---
 project:
   type: default
-  output-dir: _site
+  output-dir: docs
 title: "scverse: a software infrastructure for bioinformatics and single-cell biology"
 author: "Luca Marconato, Wolfgang Huber"
 subtitle: "deRSE26 — Networking meeting of the projects funded by the DFG funding program \"Research Software Infrastructures\""
@@ -26,6 +26,10 @@ format:
     embed-resources: true
 slide-level: 1
 ---
+
+<!-- For docs on github pages depployment, see:
+https://quarto.org/docs/publishing/github-pages.html
+-->
 
 # scverse: bridging user and developer experiences for single-cell biology{.smaller}
 
