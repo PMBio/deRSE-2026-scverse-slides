@@ -27,7 +27,7 @@ format:
 slide-level: 1
 ---
 
-<!-- For docs on github pages depployment, see:
+<!-- For documentation of how to deploy on GitHub pages, see:
 https://quarto.org/docs/publishing/github-pages.html
 -->
 
