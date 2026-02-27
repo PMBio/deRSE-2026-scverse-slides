@@ -1,4 +1,7 @@
 ---
+project:
+  type: default
+  output-dir: _site
 title: "scverse: a software infrastructure for bioinformatics and single-cell biology"
 author: "Luca Marconato, Wolfgang Huber"
 subtitle: "deRSE26 — Networking meeting of the projects funded by the DFG funding program \"Research Software Infrastructures\""
@@ -17,23 +20,11 @@ format:
     show-slide-number: all
     auto-stretch: false
     center-title-slide: false
-    # logo: EMBL_120x128.png         # may not good due to TUM - put an scverse logo instead
     logo: images/scverse.svg
   html:
     code-line-numbers: false
     embed-resources: true
-execute: 
-  warning: true
-  error: false
-  message: false
 slide-level: 1
-editor_options: 
-  chunk_output_type: console
-engine: knitr            # only if we use living code with the presentation; I suppose not...
-knitr:
-  opts_chunk: 
-    R.options:
-      width: 120
 ---
 
 # scverse: bridging user and developer experiences for single-cell biology{.smaller}
