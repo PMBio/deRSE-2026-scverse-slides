@@ -73,7 +73,7 @@ This slide shows our team composition and scientific impact. Until now, scverse 
 **How can your project benefit from networking with other projects?**
 
 - Share and learn from each other: what works, what doesn't
-- Optimal exploitation of shifting paradigms and workflows from AI: e.g., hard and solid core methods, LLM-enhanced glue and user interfacing
+- Optimally exploit shifting paradigms and workflows from AI: e.g., hard and solid core methods, LLM-enhanced glue and user interfacing
 
 **How can your project contribute to a national integrated structure for research software?**
 
