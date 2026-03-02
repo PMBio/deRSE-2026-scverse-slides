@@ -45,10 +45,10 @@ slide-level: 1
 <img src="images/R.png" style="height: 2.3em;" />
 </div>
 <ul style="margin: 0; padding-left: 1.2em; line-height: 1.4;">
-<li>25 years old, >2000 packages</li>
+<li>Since 2001, >2000 packages</li>
+<li>Distributed, open development model</li>
 <li>Tens of thousands of users</li>
-<li>Broad bioinformatics scope</li>
-<li>Biostatistics via R</li>
+<li>Broad coverage of bioinformatics; Biostatistics</li>
 </ul>
 </div>
 
@@ -58,7 +58,7 @@ slide-level: 1
 <img src="images/python.png" style="height: 2.3em;" />
 </div>
 <ul style="margin: 0; padding-left: 1.2em; line-height: 1.4;">
-<li>Single-cell + adjacent communities (e.g. image analysis)</li>
+<li>Single-cell + adjacent communities (e.g., image analysis)</li>
 <li>Link to modern AI/ML via Python</li>
 <li>Bridge to emerging technologies (Rust, CUDA)</li>
 </ul>
