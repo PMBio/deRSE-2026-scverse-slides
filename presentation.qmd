@@ -78,8 +78,8 @@ This slide shows our team composition and scientific impact. Until now, scverse 
 ::: {.column width="76%"}
 **How can your project benefit from networking with other projects?**
 
-- Share and learn from each other: what works, what doesn't
-- AI is shifting paradigms and workflows (e.g. tools for AI agents, LLM-ready documentation)
+- [AI is shifting paradigms and workflows]{.underline} (e.g. tools for AI agents, LLM-ready documentation)
+- Need for a hardened core: share and learn from each other: what works, what doesn't
 
 **How can your project contribute to a national integrated structure for research software?**
 
