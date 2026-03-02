@@ -45,10 +45,10 @@ slide-level: 1
 <img src="images/R.png" style="height: 2.3em;" />
 </div>
 <ul style="margin: 0; padding-left: 1.2em; line-height: 1.4;">
-<li>25 years old, >2000 packages</li>
+<li>Since 2001, >2000 packages</li>
+<li>Distributed, open development model</li>
 <li>Tens of thousands of users</li>
-<li>Broad bioinformatics scope</li>
-<li>Biostatistics via R</li>
+<li>Broad coverage of bioinformatics; Biostatistics</li>
 </ul>
 </div>
 
@@ -58,7 +58,7 @@ slide-level: 1
 <img src="images/python.png" style="height: 2.3em;" />
 </div>
 <ul style="margin: 0; padding-left: 1.2em; line-height: 1.4;">
-<li>Single-cell + adjacent communities (e.g. image analysis)</li>
+<li>Single-cell + adjacent communities (e.g., image analysis)</li>
 <li>Link to modern AI/ML via Python</li>
 <li>Acceleration via Rust and CUDA</li>
 </ul>
@@ -144,11 +144,11 @@ Here, I use the first option: Render to docs
 
 :::: {.columns}
 ::: {.column width="50%"}
-**Users focus: scientific discovery**
+**Users want: do science, analyse data, discover things in nature**
 
-- Benefit from easy installation & comprehensive documentation
+- Easy installation, good documentation, unit and integration tests
 
-**Developer focus: removing friction, maintainability**
+**Developers want: low friction, easy maintainance, little overhead**
 
 - Templates (scverse cookiecutter), dependency management, CI/CD, automation
 
@@ -157,8 +157,10 @@ Here, I use the first option: Render to docs
 **Bridge users ↔ developers**
 
 - Online support, in-person events
-- Developer as a teacher: scientists learn to develop, developers focus on real scientific needs
-- Software interoperability: e.g. Python + R/Bioconductor (AnnDataR)
+- Let users become developers
+- Only when you teach a tool, you realize how it should be
+- Development driven by real scientific needs
+- Don't reinvent the wheel: interoperability
 :::
 ::::
 
