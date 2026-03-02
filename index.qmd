@@ -27,20 +27,44 @@ slide-level: 1
 # [scverse: a consortium for community-driven software development for single-cell analysis]{style="font-size: 0.75em;"} {.smaller}
 
 <div style="margin-top: -0.3em; text-align: center;">
-<img src="images/slide1_use_cases.jpg" style="width: 75%; display: block; margin: 0 auto;" />
-<span style="font-size: 0.35em; color: #aaa;">Virshup et al., Nat Biotechnol (2023)</span>
+<img src="images/slide1_general_use_cases.png" style="width: 60%; display: block; margin: 0 auto;" />
 </div>
 
-<div style="display: flex; gap: 0.5em; margin-top: 0.2em; font-size: 0.65em;">
+<div style="display: flex; gap: 0.5em; margin-top: 1.5em; font-size: 0.65em;">
 
 <!-- LEFT COLUMN -->
 <div style="flex: 1.1;">
 
-<p style="margin-bottom: 0.1em; font-size: 1.6em;"><strong>Software from the core team</strong></p>
+<p style="margin-bottom: 0.1em; font-size: 1.6em;"><strong>Software infrastructures for bioinformatics</strong></p>
 
-<img src="images/slide1_software.png" style="width: 100%; border-radius: 8px;" />
+<div style="display: flex; gap: 0.2em; font-size: 1.3em;">
 
-<p style="margin: 0.1em 0 0 0; font-size: 0.85em; color: #666;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;6 more</p>
+<div style="flex: 1;">
+<div style="display: flex; align-items: center; gap: 0.5em; margin-bottom: 0.3em;">
+<img src="images/bioconductor.png" style="height: 2.8em;" />
+<img src="images/R.png" style="height: 2.3em;" />
+</div>
+<ul style="margin: 0; padding-left: 1.2em; line-height: 1.4;">
+<li>25 years old, >2000 packages</li>
+<li>Tens of thousands of users</li>
+<li>Broad bioinformatics scope</li>
+<li>Biostatistics via R</li>
+</ul>
+</div>
+
+<div style="flex: 1;">
+<div style="display: flex; align-items: center; gap: 0.5em; margin-bottom: 0.3em;">
+<img src="images/scverse.svg" style="height: 2.8em;" />
+<img src="images/python.png" style="height: 2.3em;" />
+</div>
+<ul style="margin: 0; padding-left: 1.2em; line-height: 1.4;">
+<li>Link to modern AI/ML</li>
+<li>Adjacent communities (image analysis)</li>
+<li>Bridge to emerging technologies (Rust, CUDA)</li>
+</ul>
+</div>
+
+</div>
 
 </div>
 
