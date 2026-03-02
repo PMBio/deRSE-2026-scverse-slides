@@ -60,7 +60,7 @@ slide-level: 1
 <ul style="margin: 0; padding-left: 1.2em; line-height: 1.4;">
 <li>Single-cell + adjacent communities (e.g. image analysis)</li>
 <li>Link to modern AI/ML via Python</li>
-<li>Bridge to emerging technologies (Rust, CUDA)</li>
+<li>Acceleration via Rust and CUDA</li>
 </ul>
 </div>
 
@@ -106,18 +106,22 @@ slide-level: 1
 <div style="flex: 1;">
 <p style="margin-bottom: 0.1em; font-size: 1.6em;"><strong>A community that learns and grows together</strong></p>
 <div style="display: flex; gap: 0.6em; text-align: center;">
+
+<div style="flex: 1;">
+<div style="font-size: 2.5em; font-weight: bold; line-height: 1.1;">343</div>
+<div>Unique contributors<br/>for core packages</div>
+</div>
+
+<div style="flex: 1;">
+<div style="font-size: 2.5em; font-weight: bold; line-height: 1.1;">1,708</div>
+<div>Pull requests (last year)<br/>for core packages</div>
+</div>
+
 <div style="flex: 1;">
 <div style="font-size: 2.5em; font-weight: bold; line-height: 1.1;">1,230</div>
 <div>Zulip members<br/>(discussion platform)</div>
 </div>
-<div style="flex: 1;">
-<div style="font-size: 2.5em; font-weight: bold; line-height: 1.1;">1,708</div>
-<div>Pull requests<br/>(last 365 days)</div>
-</div>
-<div style="flex: 1;">
-<div style="font-size: 2.5em; font-weight: bold; line-height: 1.1;">72,569</div>
-<div>Daily<br/>downloads</div>
-</div>
+
 </div>
 </div>
 
@@ -172,17 +176,17 @@ scverse bridges users and developers. For users, the goal is to let scientists f
 ::: {.column width="80%"}
 **How can your project benefit from networking with other projects?**
 
-- Optimally exploit shifting paradigms and workflows from AI: e.g., hard and solid core methods, LLM-enhanced glue and user interfacing
+- Optimally exploit [shifting paradigms]{.underline} and workflows from AI: e.g., hard and solid core methods, LLM-enhanced glue and user interfacing
 - Share and learn from each other: what works, what doesn't
 
 **How can your project contribute to a national integrated structure for research software?**
 
-- Broader collaboration on modular, reusable components for shared problems
+- Broader [collaboration]{.underline} on modular, reusable components for shared problems
 
 **What should a national integrated structure for research software achieve?**
 
 - European digital sovereignty to have the tools for doing the science we want to do
-- Set the environment for sustainable scientific software development by both, professional RSEs and amateur developers who are PhD or postdocs in their main jobs --- through training, good incentives, research performance assessment, careers 
+- Set the environment for [sustainable]{.underline} scientific software development by both, professional RSEs and amateur developers who are PhD or postdocs in their main jobs --- through training, good incentives, research performance assessment, careers 
 
 :::
 ::: {.column width="20%"}
@@ -214,7 +218,7 @@ Three questions to address. First, networking: we want to share and learn from e
 </div>
 
 <!-- DFG FUNDING -->
-<div style="margin-top: 1.5em;">
+<div style="margin-top: 2.5em;">
 <div style="display: flex; align-items: center;">
 <div style="flex: 0 0 170px; font-size: 1.4em;"><strong>DFG funding</strong></div>
 <div style="flex: 1; display: flex; justify-content: space-around; align-items: center;">
@@ -224,7 +228,7 @@ Three questions to address. First, networking: we want to share and learn from e
 </div>
 </div>
 
-<div style="display: flex; margin-top: 0.4em;">
+<div style="display: flex; margin-top: 1.4em;">
 <div style="flex: 0 0 170px;"></div>
 <div style="flex: 1; display: flex; justify-content: space-around; text-align: center; font-size: 1.1em;">
 <div style="flex: 1;">
@@ -244,7 +248,7 @@ Three questions to address. First, networking: we want to share and learn from e
 </div>
 
 <!-- REPRESENTING THE TEAM -->
-<div style="display: flex; align-items: center; margin-top: 1.5em;">
+<div style="display: flex; align-items: center; margin-top: 3.0em;">
 <div style="flex: 0 0 170px; font-size: 1.4em; line-height: 1.2;"><strong>Representing<br/>the team</strong></div>
 <div style="flex: 1; display: flex; justify-content: center; gap: 2em;">
 
