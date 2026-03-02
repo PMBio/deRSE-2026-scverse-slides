@@ -1,6 +1,8 @@
 # deRSE-2026-scverse-slides
 Slides for deRSE 2026 DFG networking meeting introducing scverse.
 
+[View the slides](https://pmbio.github.io/deRSE-2026-scverse-slides/#/title-slide)
+
 ## Building the presentation
 
 To build the HTML presentation, run:
