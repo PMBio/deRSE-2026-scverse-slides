@@ -27,7 +27,7 @@ slide-level: 1
 # [scverse: a consortium for community-driven software development for single-cell analysis]{style="font-size: 0.75em;"} {.smaller}
 
 <div style="margin-top: -0.3em; text-align: center;">
-<img src="images/slide1_general_use_cases.png" style="width: 60%; display: block; margin: 0 auto;" />
+<img src="images/slide1_general_use_cases.jpg" style="width: 60%; display: block; margin: 0 auto;" />
 </div>
 
 <div style="display: flex; gap: 0.5em; margin-top: 1.5em; font-size: 0.65em;">
