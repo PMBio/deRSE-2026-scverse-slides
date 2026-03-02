@@ -58,8 +58,8 @@ slide-level: 1
 <img src="images/python.png" style="height: 2.3em;" />
 </div>
 <ul style="margin: 0; padding-left: 1.2em; line-height: 1.4;">
-<li>Link to modern AI/ML</li>
-<li>Adjacent communities (image analysis)</li>
+<li>Single-cell + adjacent communities (e.g. image analysis)</li>
+<li>Link to modern AI/ML via Python</li>
 <li>Bridge to emerging technologies (Rust, CUDA)</li>
 </ul>
 </div>
@@ -126,7 +126,7 @@ slide-level: 1
 <div style="font-size: 0.5em; color: #666; margin-top: 0.2em;">https://scverse.org/</div>
 
 ::: {.notes}
-scverse is a consortium for community-driven software development for single-cell analysis, addressing use cases such as single-cell atlases, data repositories, data exchange, multi-omics and spatial integration, and model deployment. The core team maintains software including anndata, spatialdata, muon, mudata, scanpy, and squidpy, plus 6 more packages. The broader community contributes 107 ecosystem packages, with 939 dependent packages and 4,650 dependent repositories on GitHub. On the community side, we have 1,230 members on our Zulip discussion platform, 1,708 pull requests in the last 365 days, and around 72,569 daily downloads. We have also organized workshops, conferences, and hackathons, including the 2nd scverse conference in November 2025 at Stanford.
+scverse is a consortium for community-driven software development for single-cell analysis, addressing use cases such as single-cell atlases, data repositories, data exchange, multi-omics and spatial integration, and model deployment. In the broader landscape of software infrastructures for bioinformatics, Bioconductor and R have been established for 25 years with over 2,000 packages, tens of thousands of users, a broad bioinformatics scope, and strong biostatistics foundations. scverse complements this with Python, providing a link to modern AI/ML, connections to adjacent communities such as image analysis, and a bridge to emerging technologies like Rust and CUDA. On the community side, we have organized workshops, conferences, and hackathons, including the 2nd scverse conference in November 2025 at Stanford. The scverse community contributes 107 ecosystem packages, with 939 dependent packages and 4,650 dependent repositories on GitHub. We have 1,230 members on our Zulip discussion platform, 1,708 pull requests in the last 365 days, and around 72,569 daily downloads.
 :::
 
 
